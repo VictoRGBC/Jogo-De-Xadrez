@@ -1,6 +1,7 @@
 ﻿using System;
+using Chessboard;
 
-namespace ConsoleApp
+namespace xadrez_console
 {
     class Program
     {

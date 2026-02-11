@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Jogo-De-Xadrez\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F46077-BBDC-4D07-84CE-43872DF73990}|Jogo-De-Xadrez.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\jogo-de-xadrez\\chessboard\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21F46077-BBDC-4D07-84CE-43872DF73990}|Jogo-De-Xadrez.csproj|solutionrelative:chessboard\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21F46077-BBDC-4D07-84CE-43872DF73990}|Jogo-De-Xadrez.csproj|c:\\users\\galat\\downloads\\atividade faculdade\\jogo-de-xadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21F46077-BBDC-4D07-84CE-43872DF73990}|Jogo-De-Xadrez.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Jogo-De-Xadrez\\Chessboard\\Position.cs",
-              "RelativeDocumentMoniker": "Chessboard\\Position.cs",
-              "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Jogo-De-Xadrez\\Chessboard\\Position.cs",
-              "RelativeToolTip": "Chessboard\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T01:48:13.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Jogo-De-Xadrez\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\galat\\Downloads\\Atividade Faculdade\\Jogo-De-Xadrez\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T01:38:46.443Z",
               "EditorCaption": ""
