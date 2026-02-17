@@ -1,5 +1,5 @@
 ﻿
-namespace Chessboard
+namespace chessboard
 {
     class Position
     {

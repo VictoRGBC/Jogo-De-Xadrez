@@ -1,5 +1,5 @@
 ﻿using System;
-using Chessboard;
+using Jogo_De_Xadrez.chessboard;
 
 namespace xadrez_console
 {
@@ -7,7 +7,9 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Chessboard chessboard = new Chessboard(8, 8);
+
+            Console.ReadLine();
         }
     }
 }

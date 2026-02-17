@@ -1,0 +1,15 @@
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.AssemblyInfoInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.AssemblyInfo.cs
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.sourcelink.json
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\bin\Debug\net9.0\Jogo-De-Xadrez.exe
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\bin\Debug\net9.0\Jogo-De-Xadrez.deps.json
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\bin\Debug\net9.0\Jogo-De-Xadrez.runtimeconfig.json
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\bin\Debug\net9.0\Jogo-De-Xadrez.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\bin\Debug\net9.0\Jogo-De-Xadrez.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\refint\Jogo-De-Xadrez.dll
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.pdb
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\Jogo-De-Xadrez.genruntimeconfig.cache
+C:\Users\galat\Downloads\Atividade Faculdade\Jogo-De-Xadrez\obj\Debug\net9.0\ref\Jogo-De-Xadrez.dll
